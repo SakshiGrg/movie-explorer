@@ -1,3 +1,33 @@
+# Implemented Tasks
+
+1.Search Functionlity Implemented - Debounce Technique - DONE
+2.Data is fetched from API on the selection of Movies/Tv Shows - DONE
+3. Movie Details Page is implemented on the click of individual Movie/Tv Show - DONE
+4. Infinite Scrolling is implemented - DONE
+5. Responsivess - DONE
+6. Error handling - DONE
+7. Loading Indicators - DONE
+8. Routing - DONE
+9. State Management - DONE using context
+10. Styling - Done with plain Css, SCSS and Tailwind CSS
+
+
+<img width="564" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/960a8084-77cf-4efc-aad9-18a7bbb5355d">
+<img width="553" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/db556af6-933e-4076-ae49-e4807ffa944f">
+<img width="738" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/113a0493-3269-43f5-8a80-c91831b63cca">
+<img width="546" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/869902f4-80d9-4000-a459-19176497f660">
+<img width="565" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/b9f85adc-6a06-4cb3-84bd-20dc3d4777dd">
+<img width="581" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/f2471b47-316d-442b-a951-f0c79a6a7b07">
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
