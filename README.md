@@ -20,6 +20,8 @@
 <img width="546" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/869902f4-80d9-4000-a459-19176497f660">
 <img width="565" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/b9f85adc-6a06-4cb3-84bd-20dc3d4777dd">
 <img width="581" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/f2471b47-316d-442b-a951-f0c79a6a7b07">
+<img width="583" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/9661866b-c943-49b6-a2c9-e53fba9798db">
+
 ![Uploading image.png…]()
 
 
