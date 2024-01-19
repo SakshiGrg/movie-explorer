@@ -12,6 +12,8 @@
 10. Styling - Done with plain Css, SCSS and Tailwind CSS
 
 
+# Screenshots
+
 <img width="564" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/960a8084-77cf-4efc-aad9-18a7bbb5355d">
 <img width="553" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/db556af6-933e-4076-ae49-e4807ffa944f">
 <img width="738" alt="image" src="https://github.com/SakshiGrg/movie-explorer/assets/52864853/113a0493-3269-43f5-8a80-c91831b63cca">
